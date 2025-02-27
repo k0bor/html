@@ -72,6 +72,6 @@ gap
 4. auto
 элементами
 
-##тренажер grid
+## тренажер grid
 https://cssgridgarden.com/#ru
 
